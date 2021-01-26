@@ -44,7 +44,7 @@ const Checkout = ({ cart, order, onCaptureCheckout, error }) => {
     let Confirmation = () => (order.customer ? (
         <>
         <div>
-            <Typography variant="h5">Thank you for your purchase with At What Cost!  {order.customer.firstname} {order.customer.lastname}</Typography>
+            <Typography variant="h5">Thank you for your purchase with At What Cost!</Typography>
             <Divider className={classes.divider}/>
             <Typography variant="subtitle2">Order ref: {order.customer_reference}</Typography>
         </div>
@@ -71,7 +71,6 @@ const Checkout = ({ cart, order, onCaptureCheckout, error }) => {
 
     return (
         <>
-
         <div className={classes.toolbar}/>
         <main className={classes.layout}>
             <Paper className={classes.paper}>
