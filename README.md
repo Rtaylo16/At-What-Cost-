@@ -11,7 +11,7 @@
 ## General info
 At what cost is an e-commerce application that optimizes the customer experience. 
 This application is an online thrift store meant to stir up nostalgia. 
-At What Cost provides a unique items that will keep you guessing what will show up next in the inventory. 
+At What Cost provides unique items that will keep you guessing what will show up next in the inventory. 
 
 
 
