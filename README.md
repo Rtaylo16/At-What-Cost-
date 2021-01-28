@@ -1,6 +1,6 @@
 # At What Cost?
 
-![Screenshot](at-what-cost/src/components/assets/atwhatcost.jpg)
+![Screenshot](screenshot/atwhatcost.jpg)
 
 
 ## Table of contents
