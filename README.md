@@ -1,6 +1,6 @@
 # At What Cost?
 
-![Screenshot](screenshot/atwhatcost.jpg)
+![Screenshot](atwhatcost.jpg)
 
 
 ## Table of contents
