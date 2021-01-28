@@ -6,7 +6,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Usage](#usage)
 
 ## General info
 At what cost is an e-commerce application that optimizes the customer experience. 
